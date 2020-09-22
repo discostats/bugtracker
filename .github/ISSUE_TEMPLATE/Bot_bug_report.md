@@ -1,6 +1,6 @@
 ---
-name: Bug
-about: Create a report to help us improve Discostats
+name: Bot Bug Report
+about: Report encountered issue with Discostats bot
 title: ''
 labels: bot triage bug-report
 assignees: ''

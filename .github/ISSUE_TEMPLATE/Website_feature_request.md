@@ -1,6 +1,6 @@
 ---
 name: Website Feature Request
-about: Suggest an idea for our discord bot
+about: Suggest an idea to improve our website
 title: ''
 labels: website triage feature-request
 assignees: ''

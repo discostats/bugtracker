@@ -1,6 +1,6 @@
 ---
 name: Bot Feature Request
-about: Suggest an idea for our discord bot
+about: Suggest an idea to improve our Discord bot
 title: ''
 labels: bot triage feature-request
 assignees: ''

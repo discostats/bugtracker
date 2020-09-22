@@ -1,6 +1,6 @@
 ---
-name: Bug
-about: Create a report to help us improve Discostats
+name: Website Bug Report
+about: Submit encountered issue on Discostats website
 title: ''
 labels: website triage bug-report
 assignees: ''
