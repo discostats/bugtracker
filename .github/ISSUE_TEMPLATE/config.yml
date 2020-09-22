@@ -1,0 +1,15 @@
+---
+blank_issues_enabled: false
+contact_links:
+  -
+    about: "Please ask and answer usage questions on Stack Overflow."
+    name: Question
+    url: "https://stackoverflow.com/questions/tagged/discostats"
+  -
+    about: "Alternatively, you can use the Discostats Community Discord."
+    name: Chat
+    url: "https://discord.gg/vkH7X32"
+  -
+    about: "Please check the FAQ before filing new issues"
+    name: "Discostats FAQ"
+    url: "https://github.com/discostats/bugtracker/wiki/FAQ"
